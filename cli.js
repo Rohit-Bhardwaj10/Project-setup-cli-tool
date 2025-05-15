@@ -568,7 +568,7 @@ npm run dev
 
 async function generateProject() {
   try {
-    console.log(chalk.bold.cyan("\n🚀 Welcome to Create Express Mongo CLI 🚀"));
+    console.log(chalk.bold.cyan("\n🚀 Welcome to Create your App CLI 🚀"));
     console.log(chalk.cyan("═══════════════════════════════════════════\n"));
 
     const { projectName, projectType, language, frontendFramework } =
